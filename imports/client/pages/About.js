@@ -2,18 +2,12 @@ import React, { Component } from 'react';
 
 const About = () =>
   <main>
-    <h1>About Us</h1>
+    <h1>About the App</h1>
     <p>
-      Organic selfies butcher af, pop-up normcore direct trade scenester.
-    </p>
-    <p>
-      Meggings intelligentsia subway tile, shabby chic pickled tacos pop-up yr schlitz dreamcatcher.
-    </p>
-    <p>
-      Celiac swag banh mi wayfarers thundercats.
-    </p>
-    <p>
-      Direct trade lyft cardigan hammock polaroid scenester, 90's gluten-free cred gastropub live-edge prism.
+      Hi. My name's Ben. This is a simple voting app that I built following the Level Up Tutorials. <br />
+      It uses Meteor as the build platform, MongoDB as the database, and React as the front end library. <br />
+      I'm hoping to expand the app so that it can be used as a family trivia game over the holidays. <br />
+      Feel free to check it out! (No profanity or obscenity please.)
     </p>
   </main>
 
